@@ -5,6 +5,10 @@
 This server is a simple way to get read-only information about player statistics in the game
 Overwatch by Blizzard.
 
+
+This is my edit to this readme. My name is Finley Ross.
+
+
 **A live version runs on https://owapi.net.**  
 
 ## Game data
